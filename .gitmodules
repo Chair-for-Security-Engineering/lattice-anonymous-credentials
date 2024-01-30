@@ -1,0 +1,6 @@
+[submodule "code/libs/flint"]
+	path = code/libs/flint
+	url = git@github.com:flintlib/flint.git
+[submodule "scripts/lattice-estimator"]
+	path = scripts/lattice-estimator
+	url = git@github.com:malb/lattice-estimator.git
