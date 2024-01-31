@@ -1,5 +1,5 @@
 #	Lattice Anonymous Credentials
-This repository contains the code by Sven Argo, Corentin Jeudy, Georg Land for the paper **Practical Post-Quantum Signatures for Privacy** by Sven Argo, Tim Güneysu, Corentin Jeudy, Georg Land, Adeline Roux-Langlois, Olivier Sanders.
+This repository contains the code by Sven Argo, Corentin Jeudy, Georg Land for the paper **Practical Post-Quantum Signatures for Privacy** by Sven Argo, Tim Güneysu, Corentin Jeudy, Georg Land, Adeline Roux-Langlois, Olivier Sanders. The paper is available on the IACR ePrint Archive [here](https://eprint.iacr.org/2024/131).
 
 The repository contains
 - the parameter selection/estimation scripts, and
